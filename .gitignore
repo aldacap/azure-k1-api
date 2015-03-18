@@ -186,3 +186,5 @@ FakesAssemblies/
 #garbage vs
 *.pubxml
 *.config
+*.njsproj
+*.sln

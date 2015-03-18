@@ -188,3 +188,4 @@ FakesAssemblies/
 *.config
 *.njsproj
 *.sln
+[Ww]eb.config

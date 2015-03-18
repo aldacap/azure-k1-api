@@ -75,6 +75,13 @@ ipch/
 *.vsp
 *.vspx
 
+#garbage vs
+*.pubxml
+*.config
+*.njsproj
+*.sln
+[Ww]eb.config
+
 # TFS 2012 Local Workspace
 $tf/
 
@@ -183,9 +190,4 @@ UpgradeLog*.htm
 FakesAssemblies/
 
 
-#garbage vs
-*.pubxml
-*.config
-*.njsproj
-*.sln
-[Ww]eb.config
+
